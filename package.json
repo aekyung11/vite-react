@@ -1,4 +1,9 @@
 {
+  "private": "true",
+  "type": "module",
+  "name": "vite-react",
+  "description": "Vite + React custom template",
+  "version": "0.1.0",
   "scripts": {
     "dev": "vite",
     "preview": "vite preview",
